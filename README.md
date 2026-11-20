@@ -46,7 +46,7 @@ Aplicação desenvolvida num único ficheiro Python, sem necessidade de dependê
 ## Instalação e Execução
 
 1. Instalar o Python 3.8 ou superior.
-2. Guardar o ficheiro `Trabalho1.py` numa pasta.
+2. Guardar o ficheiro `Sistema de votacao.py` numa pasta.
 3. Abrir o terminal na localização do ficheiro.
 4. Executar o seguinte comando:
 
