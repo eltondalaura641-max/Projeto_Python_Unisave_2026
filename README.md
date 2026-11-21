@@ -60,7 +60,7 @@ Aplicação desenvolvida num único ficheiro Python, sem necessidade de dependê
 4. Executar o seguinte comando:
 
 ```bash
-
+https://github.com/eltondalaura641-max/Projeto_Python_Unisave_2026
 ```
 
 Após a execução, será apresentado um menu interativo com as opções de gestão de candidatos, votação, consulta de resultados e encerramento do sistema.
