@@ -3,10 +3,10 @@
 Sistema de votacao de chefe da turma foi desenvolvido em Python que permite gerir eleicoes para a escolha do chefe da turma de forma simples, organizada e transparente. O sistema permite adicionar, visualizar e eliminar os candidatos, registar votos, impedir que um eleitor vote mais que uma vez e apresentar os resultados finais.
 
 #**Nomes dos participantes**
-Bixente Agnaldo ()
-Elton De Laura ( eltondalaura641-maximo )
-Francisco Sarmento ()
-Hilario 
+Bixente Agnaldo (bixenteagnaldomacia-afk),
+Elton De Laura (eltondalaura641-maximo),
+Francisco Sarmento (FranciscoSMonjane),
+Hilario Zefanias (Hilariojuaiogit)
 
 
 
